@@ -1,2 +1,2 @@
-# GitHub-Basics
+# Python-Basics
 learning basics
